@@ -1,3 +1,15 @@
 node_modules/
 package-lock.json
 package.json
+
+applets/
+autostart/
+conky/
+dunst/
+gtk/
+i3/
+install.sh
+kitty/
+picom/
+polybar/
+screenshots/
